@@ -19,6 +19,12 @@ Thanks so much for being part of this workshop. I'm so glad that you're here.
 
 ## React Data Fetching
 
+- [useEffect](https://codesandbox.io/s/use-effect-demo-3z93wk?file=/src/App.js)
+- [useEffect States](https://codesandbox.io/s/data-states-9hwg4?file=/src/App.js)
+- [Fetch on render](https://codesandbox.io/s/fetch-on-render-46pk6w?file=/src/App.js)
+- [Fetch then render](https://codesandbox.io/s/fetch-then-render-s74kmn?file=/src/App.js)
+- [Suspense - Render as you fetch](https://codesandbox.io/s/suspense-httkvr?file=/src/App.js)
+
 ## GraphQL Clients
 
 ## Data Fetching Hooks
