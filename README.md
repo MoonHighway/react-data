@@ -1,6 +1,6 @@
 # Managing Data in a React Application
 
-Thanks so much for being part of this workshop. I'm so glad that you're here.
+Thanks so much for being part of this workshop. I'm really glad that you're here.
 
 ## Outline
 
