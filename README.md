@@ -27,7 +27,9 @@ Thanks so much for being part of this workshop. I'm really glad that you're here
 
 ## GraphQL Clients
 
-## Data Fetching Hooks
+The exercise for this section is found in the `[02-graphql-clients]`() folder.
+
+- [Apollo Client Docs](https://www.apollographql.com/docs/react)
 
 ## @defer & @stream
 
