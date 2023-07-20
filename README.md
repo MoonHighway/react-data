@@ -38,7 +38,9 @@ The exercise for this section is found in the `[02-graphql-clients]`(https://git
 
 ## Server Components Resources
 
+- [Slides](https://slides.com/moonhighway/rsc/)
 - [RSC from Scratch](https://github.com/reactwg/server-components/discussions/5)
+- [Server Components with Next](https://nextjs.org/docs/getting-started/react-essentials)
 - [Patterns.dev Article](https://www.patterns.dev/posts/react-server-components)
 - [Demystifying Server Components Tutorial](https://demystifying-rsc.vercel.app/)
 
