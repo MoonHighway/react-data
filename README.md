@@ -27,7 +27,7 @@ Thanks so much for being part of this workshop. I'm really glad that you're here
 
 ## GraphQL Clients
 
-The exercise for this section is found in the `[02-graphql-clients]`(https://github.com/MoonHighway/react-data/tree/main/02-graphql-clients) folder.
+The exercise for this section is found in the [02-graphql-clients](https://github.com/MoonHighway/react-data/tree/main/02-graphql-clients) folder.
 
 - [Apollo Client Docs](https://www.apollographql.com/docs/react)
 
@@ -40,7 +40,7 @@ The exercise for this section is found in the `[02-graphql-clients]`(https://git
 
 - [Slides](https://slides.com/moonhighway/rsc/)
 - [RSC from Scratch](https://github.com/reactwg/server-components/discussions/5)
-- [Server Components with Next](https://nextjs.org/docs/getting-started/react-essentials)
+- [Server Components with Next Documentation](https://nextjs.org/docs/getting-started/react-essentials)
 - [Patterns.dev Article](https://www.patterns.dev/posts/react-server-components)
 - [Demystifying Server Components Tutorial](https://demystifying-rsc.vercel.app/)
 
