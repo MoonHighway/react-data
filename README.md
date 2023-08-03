@@ -4,12 +4,13 @@ Thanks so much for being part of this workshop. I'm really glad that you're here
 
 ## Outline
 
-- React Data Fetching
-- GraphQL Clients
-- @defer & @stream
-- Next.js App Router
-- Data Fetching with Next.js
-- Server Components-ifying Libraries
+- [React Data Fetching](https://github.com/MoonHighway/react-data/blob/main/README.md#react-data-fetching)
+- [GraphQL Clients](https://github.com/MoonHighway/react-data#graphql-clients)
+- [@defer & @stream](https://github.com/MoonHighway/react-data#defer--stream)
+- [Server Components Intro](https://github.com/MoonHighway/react-data#server-components-intro)
+- [Next.js App Router](https://github.com/MoonHighway/react-data#nextjs-app-router)
+- [Data Fetching with Next.js](https://github.com/MoonHighway/react-data#data-fetching-with-nextjs)
+- [Server Components-ifying Libraries](https://github.com/MoonHighway/react-data#server-components-ifying-libraries)
 
 ## Instructor Info
 
@@ -37,7 +38,7 @@ The exercise for this section is found in the [02-graphql-clients](https://githu
 - [Slides](https://slides.com/moonhighway/defer-stream/)
 - [@defer and @stream Docs](https://www.apollographql.com/docs/react/data/defer/)
 
-## Server Components Resources
+## Server Components Intro
 
 - [Slides](https://slides.com/moonhighway/rsc/)
 - [RSC from Scratch](https://github.com/reactwg/server-components/discussions/5)
