@@ -1,6 +1,6 @@
 # Managing Data in a React Application
 
-Thanks so much for being part of this workshop. I'm really glad that you're here.
+Thanks so much for being part of this workshop. I'm really glad that you're here. Below you'll find links for each section of the class. 
 
 ## Outline
 
@@ -18,6 +18,7 @@ Thanks so much for being part of this workshop. I'm really glad that you're here
 
 ## React Data Fetching
 
+- [Slides](https://slides.com/moonhighway/react-data/)
 - [useEffect](https://codesandbox.io/s/use-effect-demo-3z93wk?file=/src/App.js)
 - [useEffect States](https://codesandbox.io/s/data-states-9hwg4?file=/src/App.js)
 - [Fetch on render](https://codesandbox.io/s/fetch-on-render-46pk6w?file=/src/App.js)
