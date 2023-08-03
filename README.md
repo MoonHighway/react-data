@@ -2,15 +2,15 @@
 
 Thanks so much for being part of this workshop. I'm really glad that you're here. Below you'll find links for each section of the class. 
 
-## Outline
+## Agenda
 
-- [React Data Fetching](https://github.com/MoonHighway/react-data/blob/main/README.md#react-data-fetching)
-- [GraphQL Clients](https://github.com/MoonHighway/react-data#graphql-clients)
-- [@defer & @stream](https://github.com/MoonHighway/react-data#defer--stream)
-- [Server Components Intro](https://github.com/MoonHighway/react-data#server-components-intro)
-- [Next.js App Router](https://github.com/MoonHighway/react-data#nextjs-app-router)
-- [Data Fetching with Next.js](https://github.com/MoonHighway/react-data#data-fetching-with-nextjs)
-- [Server Components-ifying Libraries](https://github.com/MoonHighway/react-data#server-components-ifying-libraries)
+1. [React Data Fetching](https://github.com/MoonHighway/react-data/blob/main/README.md#react-data-fetching)
+2. [GraphQL Clients](https://github.com/MoonHighway/react-data#graphql-clients)
+3. [@defer & @stream](https://github.com/MoonHighway/react-data#defer--stream)
+4. [Server Components Intro](https://github.com/MoonHighway/react-data#server-components-intro)
+5. [Next.js App Router](https://github.com/MoonHighway/react-data#nextjs-app-router)
+6. [Data Fetching with Next.js](https://github.com/MoonHighway/react-data#data-fetching-with-nextjs)
+7. [Server Components-ifying Libraries](https://github.com/MoonHighway/react-data#server-components-ifying-libraries)
 
 ## Instructor Info
 
