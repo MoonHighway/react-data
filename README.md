@@ -1,6 +1,6 @@
 # Managing Data in a React Application
 
-Thanks so much for being part of this workshop. I'm really glad that you're here. Below you'll find links for each section of the class. 
+Thanks so much for being part of this workshop. I'm really glad that you're here. Below you'll find links for each section of the class.
 
 ## Agenda
 
@@ -25,12 +25,11 @@ Thanks so much for being part of this workshop. I'm really glad that you're here
 - [Fetch on render](https://codesandbox.io/s/fetch-on-render-46pk6w?file=/src/App.js)
 - [Fetch then render](https://codesandbox.io/s/fetch-then-render-s74kmn?file=/src/App.js)
 - [Suspense - Render as you fetch](https://codesandbox.io/s/suspense-httkvr?file=/src/App.js)
-- [SWR]()
 
 ## 2. GraphQL Clients
 
-The exercise for this section is found in the [02-graphql-clients](https://github.com/MoonHighway/react-data/tree/main/02-graphql-clients) folder.
-
+- [Exercise Start](https://github.com/MoonHighway/react-data/tree/main/02-graphql-clients/start)
+- [Exercise Complete](https://github.com/MoonHighway/react-data/tree/main/02-graphql-clients/complete)
 - [Apollo Client Docs](https://www.apollographql.com/docs/react)
 
 ## 3. @defer & @stream
@@ -48,6 +47,15 @@ The exercise for this section is found in the [02-graphql-clients](https://githu
 
 ## 5. Next.js App Router
 
+- [Snowtooth UI - Project Start](https://github.com/MoonHighway/react-data/tree/main/05-next-app-router/snowtooth-ui)
+
 ## 6. Data Fetching with Next.js
 
+- [Snowtooth UI - Project Complete](https://github.com/MoonHighway/react-data/tree/main/06-next-data-fetching/snowtooth-ui)
+- [Data Fetching Patterns](https://nextjs.org/docs/app/building-your-application/data-fetching/patterns)
+- [Caching Docs](https://nextjs.org/docs/app/building-your-application/caching)
+
 ## 7. Server Components-ifying Libraries
+
+- [Rendering Third Party Context Providers](https://vercel.com/guides/react-context-state-management-nextjs)
+- [Apollo Case Study](https://www.apollographql.com/blog/apollo-client/next-js/how-to-use-apollo-client-with-next-js-13/)
