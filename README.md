@@ -55,6 +55,7 @@ Thanks so much for being part of this workshop. I'm really glad that you're here
 npm install @supabase/auth-helpers-nextjs @supabase/supabase-js
 ```
 
+At the root of the project -- `.env.local`
 ```
 NEXT_PUBLIC_SUPABASE_URL=https://nbdufkqtatymaigudvdp.supabase.co
 NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5iZHVma3F0YXR5bWFpZ3VkdmRwIiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTE0NDc4MDksImV4cCI6MjAwNzAyMzgwOX0.H6Q8qQ9QanKeZinptfgBW1BA4OiF8_z_pokqfcAaKeM
