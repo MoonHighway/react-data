@@ -51,6 +51,15 @@ Thanks so much for being part of this workshop. I'm really glad that you're here
 
 - [Snowtooth UI - Project Start](https://github.com/MoonHighway/react-data/tree/main/05-next-app-router/snowtooth-ui)
 
+```
+npm install @supabase/auth-helpers-nextjs @supabase/supabase-js
+```
+
+```
+NEXT_PUBLIC_SUPABASE_URL=https://nbdufkqtatymaigudvdp.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5iZHVma3F0YXR5bWFpZ3VkdmRwIiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTE0NDc4MDksImV4cCI6MjAwNzAyMzgwOX0.H6Q8qQ9QanKeZinptfgBW1BA4OiF8_z_pokqfcAaKeM
+```
+
 ## 6. Data Fetching with Next.js
 
 - [Snowtooth UI - Project Complete](https://github.com/MoonHighway/react-data/tree/main/06-next-data-fetching/snowtooth-ui)
