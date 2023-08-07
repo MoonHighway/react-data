@@ -31,6 +31,7 @@ Thanks so much for being part of this workshop. I'm really glad that you're here
 - [Exercise Start](https://github.com/MoonHighway/react-data/tree/main/02-graphql-clients/start)
 - [Exercise Complete](https://github.com/MoonHighway/react-data/tree/main/02-graphql-clients/complete)
 - [Apollo Client Docs](https://www.apollographql.com/docs/react)
+- [Table JSX](https://gist.github.com/eveporcello/fa683859b9dc1934a0543677dbceac10)
 
 ## 3. @defer & @stream
 
