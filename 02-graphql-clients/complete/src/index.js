@@ -6,16 +6,14 @@ import {
   HttpLink,
   InMemoryCache,
   ApolloProvider,
-  split,
+  split
 } from "@apollo/client";
 import { getMainDefinition } from "@apollo/client/utilities";
 import { SubscriptionClient } from "subscriptions-transport-ws";
 import { WebSocketLink } from "@apollo/client/link/ws";
-import { createPersistedQueryLink } from "@apollo/client/link/persisted-queries";
-import { sha256 } from "crypto-hash";
 
 const httpLink = new HttpLink({
-  uri: "https://snowtooth.moonhighway.com",
+  uri: "https://snowtooth.moonhighway.com"
 });
 
 const wsLink = new WebSocketLink(
@@ -23,11 +21,6 @@ const wsLink = new WebSocketLink(
     "wss://snowtooth.moonhighway.com/graphql"
   )
 );
-
-// Here we'll show an example of the persisted query link
-// const persistedLink = createPersistedQueryLink({
-//   sha256,
-// }).concat(httpLink);
 
 const link = split(
   ({ query }) => {
@@ -44,7 +37,7 @@ const link = split(
 const cache = new InMemoryCache();
 const client = new ApolloClient({
   link,
-  cache,
+  cache
 });
 
 const root = ReactDOM.createRoot(
