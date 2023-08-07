@@ -36,6 +36,7 @@ Thanks so much for being part of this workshop. I'm really glad that you're here
 
 - [Slides](https://slides.com/moonhighway/defer-stream/)
 - [@defer and @stream Docs](https://www.apollographql.com/docs/react/data/defer/)
+- [Demo](https://studio.apollographql.com/public/hack-the-e-commerce/variant/main/explorer?_gl=1%2A1lqqa8n%2A_ga%2AMTY3Nzk4MDgyNy4xNjkwNDkxMDQ0%2A_ga_0BGG5V2W2K%2AMTY5MTM4NjQ1OS41LjEuMTY5MTM4NjgzNy4wLjAuMA..)
 
 ## 4. Server Components Intro
 
